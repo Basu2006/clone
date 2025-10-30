@@ -1,0 +1,7 @@
+print("Teacher Details")
+name = input("Enter teacher name: ")
+print("")
+subject= input("Enter subject: ")
+print("")
+post_code = input("Enter post_code: ")
+print("")
